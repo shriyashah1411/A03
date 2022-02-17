@@ -41,7 +41,11 @@ Glossary:
 12.	Repository: The storage space where directories are saved and can be edited.
 
 Sources:
+
 •	IS117-004 - Introduction to Github and Webstorm 
+
 •	IS117-004 - Extra Git/Github Installation Instructions
+
 •	GitHub glossary - GitHub Docs
+
 •	JetBrains - Webstorm Docs
